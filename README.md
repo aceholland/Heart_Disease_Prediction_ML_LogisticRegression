@@ -1,5 +1,4 @@
-# Heart_Disease_Prediction_ML_LogisticRegression
-# Heart Disease Prediction Using Machine Learning
+# Heart_Disease_Prediction_MachineLearning_LogisticRegression
 
 This project uses Machine Learning with Python to predict whether a person is likely to have heart disease based on various medical and demographic features.
 
@@ -227,6 +226,6 @@ By completing this project, we can learn how to:
 * Make predictions using trained models
 * Organize a machine learning project for GitHub
 
-## Author : Anushka Verma
+## Author 
 
 **Anushka Verma**
